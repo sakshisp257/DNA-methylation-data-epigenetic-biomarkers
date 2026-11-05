@@ -1,0 +1,14 @@
+DNA-Methylation-Prediction/
+│
+├── data/
+│   ├── full_dataset.csv
+│   ├── train_data.csv
+│   └── test_data.csv
+│
+├── DNA_Methylation_Prediction.ipynb
+│
+├── dna_methylation_model.pkl
+│
+├── requirements.txt
+│
+└── README.md
